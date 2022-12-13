@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/J-HaleOf76/node-express-course#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
   
 }
